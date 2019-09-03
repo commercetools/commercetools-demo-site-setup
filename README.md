@@ -12,7 +12,7 @@ You can start by downloading this repository as a ZIP file.
 
 (both free for the purpose of demo applications) 
 
-  * [set up a personal account on the commercetools platform](https://admin.sphere.io/en/signup). 
+  * [set up a personal account on the commercetools platform](https://mc.commercetools.com/). 
     If your company already has an "Organization" in the commercetools platform, ask a colleague to invite you. 
     Otherwise you will get a fresh personal organization on signup, wich is not eligible for partner terms if you are a partner.
   * [create an account at Heroku.com to temporarily host your SUNRISE demo web frontend (if wanted)](https://signup.heroku.com/). 
